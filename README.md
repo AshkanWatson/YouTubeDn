@@ -13,7 +13,7 @@ Support Platforms:
 3. Read [Install](https://github.com/AshkanWatson/YouTubeDn/edit/YouTubeDn/README.md#install) Readme
 4. Git 
 ## **Install**
-You Can Use Git Like ```Git Clone https://github.com/AshkanWatsonYouTubeDn```
+You Can Use Git Like ```git clone https://github.com/AshkanWatson/YouTubeDn.git```
 
 *Or*
 
