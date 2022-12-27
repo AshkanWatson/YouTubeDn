@@ -8,8 +8,8 @@ Support Platforms:
 - Mac (All Versions)
 
 ## **Requirement**
-1. Python 3.7 (Later Version)
-2. pip Installed On Device
+1. Python 3.7 (Later Version) [download](https://www.python.org/downloads/release/python-3111/)
+2. pip last Version
 3. Read [Install](https://github.com/AshkanWatson/YouTubeDn/edit/YouTubeDn/README.md#install) Readme
 4. Git 
 ## **Install**
@@ -32,3 +32,11 @@ Then Move
 > 2.YouTubeDownload
 
 To Command Prompt And Give YouTube Link Address To Download
+
+### For Linux
+
+```git clone https://github.com/AshkanWatson/YouTubeDn.git```
+
+```cd YouTubeDn```
+
+```pip install -r requirements.txt```
