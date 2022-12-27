@@ -26,8 +26,9 @@ UnZip File And Open YouTubeDn Folder Then By The Numbers First Do First
 Double Click On 
 > 1.Command.cmd
 
-Open Command Prompt With ```Win + R ```
+Open Command Prompt With ShortCut Key  ```Win + R ```
 
 Then Move 
 > 2.YouTubeDownload
+
 To Command Prompt And Give YouTube Link Address To Download
