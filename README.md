@@ -15,7 +15,18 @@ Support Platforms:
 ## **Install**
 You Can Use Git Like ```git clone https://github.com/AshkanWatson/YouTubeDn.git```
 
-*Or*
+**Or**
 
 Use Zip File Download From This Page Or Click On [Download](https://github.com/AshkanWatson/YouTubeDn/archive/refs/heads/YouTubeDn.zip) Button
 
+### For Windows
+
+UnZip File And Open YouTubeDn Folder Then By The Numbers First Do First
+
+Double Click On 
+> 1.Command.cmd
+
+Open Command Prompt With ```Win + R ```
+
+Then Move 
+> 2.YouTubeDn.py To Command Prompt
