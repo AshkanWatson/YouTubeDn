@@ -1,6 +1,6 @@
 ![YouTube_Downloader](https://user-images.githubusercontent.com/87552247/209785951-339c79c8-c1be-46f8-ba96-3430f9cc7f98.png)
 
-
+![GitHub all releases](https://img.shields.io/github/downloads/AshkanWatson/YouTubeDn/total?label=Downloads&style=flat-square)
 
 # YouTubeDn
 > Easy Way To Download Videos From YouTube 
