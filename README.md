@@ -12,17 +12,16 @@ Support Platforms:
 - Mac (All Versions)
 
 ## **Requirement**
-1. Python 3.7 (Later Version) [Download](https://www.python.org/downloads/release/python-3111/)
-2. pip last Version
-3. Read [Install](https://github.com/AshkanWatson/YouTubeDn/edit/YouTubeDn/README.md#install) Readme
-4. Git 
+1. Python 3.7 [(Later Version)](https://www.python.org/downloads/release/python-3111/)
+2. pip [(Later Version)](https://www.python.org/downloads/release/python-3111/)
+3. Git [(Later Version)](https://git-scm.com/downloads)
 ## **Install**
 You Can Use Git Like ```git clone https://github.com/AshkanWatson/YouTubeDn.git```
 
 **Or**
 
 Use Zip File Download From This Page Or Click On [Download](https://github.com/AshkanWatson/YouTubeDn/archive/refs/heads/YouTubeDn.zip) Button
-
+## Usage
 ### For Windows
 
 UnZip File And Open YouTubeDn Folder Then By The Numbers First Do First
